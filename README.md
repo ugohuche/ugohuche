@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Python Data Engineer and Web Developer: Dedicated to weaving the fabric of data-driven solutions and crafting seamless web experiences.<br>Let's connect and explore the vast possibilities of data and web development together. <br>Currently working on a [Skep Foundation Course](https://github.com/skepfoundation/pages_course/tree/main) <br>#PythonDataEngineer #WebDeveloper
+Passionate Python Data Engineer and Web Developer: Dedicated to weaving the fabric of data-driven solutions and crafting seamless web experiences.<br>Let's connect and explore the vast possibilities of data and web development together. <br>Currently working on [narwhals] project (https://github.com/MarcoGorelli/narwhals) <br>#PythonDataEngineer #WebDeveloper
 
 
 ## 🌐 Socials:
